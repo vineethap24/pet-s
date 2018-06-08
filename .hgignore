@@ -1,0 +1,13 @@
+syntax: glob
+
+target
+logs
+appserver
+.classpath
+.project
+.springBeans
+.settings
+*.iml
+*.ipr
+*.iws
+*.ids
